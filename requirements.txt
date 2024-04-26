@@ -1,0 +1,8 @@
+opencv-python
+streamlit
+matplotlib
+pandas
+cmake
+numpy
+face_recognition
+dlib
