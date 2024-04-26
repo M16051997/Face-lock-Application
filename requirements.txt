@@ -4,5 +4,6 @@ matplotlib
 pandas
 cmake
 numpy
-face_recognition
 dlib
+face_recognition
+
