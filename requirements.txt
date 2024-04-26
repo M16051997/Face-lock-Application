@@ -4,7 +4,7 @@ opencv-python
 matplotlib
 pandas
 cmake
-
+https://github.com/M16051997/Face-lock-Application/blob/main/dlib-19.22.99-cp310-cp310-win_amd64.whl
 #https://github.com/M16051997/Face-lock-Application/blob/main/dlib-19.23.0-cp39-cp39-win_amd64.whl
 # face_recognition
 
